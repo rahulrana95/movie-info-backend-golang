@@ -1,0 +1,15 @@
+{
+  "name": "backend-movie-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmd/main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rahulrana95/movie-info-backend-golang.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
