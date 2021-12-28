@@ -1,8 +1,22 @@
 # github.com/julienschmidt/httprouter v1.3.0
 ## explicit
 github.com/julienschmidt/httprouter
+# github.com/kr/fs v0.1.0
+## explicit
+# github.com/kr/pretty v0.3.0
+## explicit
 # github.com/lib/pq v1.10.4
 ## explicit
 github.com/lib/pq
 github.com/lib/pq/oid
 github.com/lib/pq/scram
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+# github.com/rogpeppe/go-internal v1.8.1
+## explicit
+# github.com/tools/godep v0.0.0-20180126220526-ce0bfadeb516
+## explicit
+# golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+## explicit
+# golang.org/x/tools v0.1.8
+## explicit
