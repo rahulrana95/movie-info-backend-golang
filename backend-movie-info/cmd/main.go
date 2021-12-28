@@ -1,7 +1,6 @@
 package main
 
 import (
-	"backend-movie-info/cmd/models"
 	"context"
 	"database/sql"
 	"flag"
@@ -12,6 +11,7 @@ import (
 	"time"
 
 	_ "github.com/lib/pq"
+	"github.com/rahulrana95/backend-movie-info/cmd/models"
 )
 
 var version string = "1.0.0"
